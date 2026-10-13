@@ -1,4 +1,5 @@
 Временная заглушка для тестов
 Для автоматической установки 
-bash```bash <(curl -s https://raw.githubusercontent.com/Yaromo/S_pad/setup.sh)
+```bash
+bash <(curl -s https://raw.githubusercontent.com/Yaromo/S_pad/setup.sh)
 ```

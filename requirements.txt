@@ -1,0 +1,15 @@
+cffi==2.1.1
+evdev==2.0.0
+numpy==2.5.4
+pycparser==3.11
+pynput==1.8.2
+PyQt6==6.11.0
+PyQt6-Qt6==6.11.2
+PyQt6_sip==13.13.0
+python-xlib==0.33
+scipy==1.18.1
+six==1.17.0
+SoundCard==0.4.6
+soundfile==0.14.0
+tinytag==2.3.2
+typing_extensions==4.16.0

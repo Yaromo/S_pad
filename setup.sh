@@ -39,6 +39,7 @@ cd "$TARGET_DIR" || exit 1
 if [ -f "clear.sh" ]; then
     echo "🧹 Файл clean.sh найден. Выдаем права на исполнение..."
     chmod +x clear.sh
+fi
 
 # 4. Проверяем наличие start.sh и запускаем его
 if [ -f "start.sh" ]; then

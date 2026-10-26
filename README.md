@@ -38,3 +38,9 @@ bash <(curl -s https://raw.githubusercontent.com/Yaromo/S_pad/main/setup.sh)
 # ВАЖНО
 
 Директория для звуков создастся автоматический при первом запуске, не делаете её сами.
+
+# Проверенные linux
+
+  1. linux mint
+     
+(на этом пока все) 

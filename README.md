@@ -24,7 +24,7 @@ bash <(curl -s https://raw.githubusercontent.com/Yaromo/S_pad/main/setup.sh)
 ```
 Чтобы запустить программу снова используйте файл - start.sh
 
-# Интерфейс
+## Интерфейс
 
 (Без картинок, сверху вниз)
 
@@ -39,7 +39,7 @@ bash <(curl -s https://raw.githubusercontent.com/Yaromo/S_pad/main/setup.sh)
 
 Директория для звуков создастся автоматический при первом запуске, не делаете её сами.
 
-# Проверенные linux
+## Проверенные linux
 
   1. linux mint
      
